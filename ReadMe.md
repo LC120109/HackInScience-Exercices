@@ -10,7 +10,7 @@ All Exercices can be found [Here](https://www.hackinscience.org/exercises/)
 |01| [Hello World](./Solutions/Python_Basics/01HelloWorld.py) |
 |02| [Print 42](./Solutions/Python_Basics/02Print42.py) |
 |03| [Number of seconds in a year](./Solutions/Python_Basics/03NumberOfSecondsYear.py) |
-|04| [Using operators]./Solutions/Python_Basics/04UsingOperators.py) |
+|04| [Using operators](./Solutions/Python_Basics/04UsingOperators.py) |
 |05| [Characters counting](./Solutions/Python_Basics/05CharacterCounting.py) |
 |06| [Fix the indentation](./Solutions/Python_Basics/06FixTheIdentation.py) |
 |07| [Square numbers](./Solutions/Python_Basics/07SquareNumbers.py) |
