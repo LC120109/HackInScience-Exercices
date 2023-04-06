@@ -5,33 +5,33 @@ All Exercices can be found [Here](https://www.hackinscience.org/exercises/)
 <br />
 
 ## Python - Basics
-| # |    Title    |    Solution    |
-|---| ----------- | -------------- |
-|01| [Hello World](./Solutions/Python_Basics/01HelloWorld.py) |
-|02| [Print 42](./Solutions/Python_Basics/02Print42.py) |
-|03| [Number of seconds in a year](./Solutions/Python_Basics/03NumberOfSecondsYear.py) |
-|04| [Using operators](./Solutions/Python_Basics/04UsingOperators.py) |
-|05| [Characters counting](./Solutions/Python_Basics/05CharacterCounting.py) |
-|06| [Fix the indentation](./Solutions/Python_Basics/06FixTheIdentation.py) |
-|07| [Square numbers](./Solutions/Python_Basics/07SquareNumbers.py) |
-|08| [Powers of two](./Solutions/Python_Basics/08PowersOfTwo.py) |
-|09| [Import](./Solutions/Python_Basics/09Import.py) |
-|10| [Comparisons](./Solutions/Python_Basics/10Comparisons.py) |
-|11| [Counting Words](./Solutions/Python_Basics/11CountingWords.py) |
-|12| [First function](./Solutions/Python_Basics/12FirstFunction.py) |
-|13| [Print even numbers](./Solutions/Python_Basics/13PrintEvenNumbers.py) |
-|14| [Sum of even numbers](./Solutions/Python_Basics/14SumOfEvenNumbers.py) |
-|15| [Multiples of 3 and 5](./Solutions/Python_Basics/15Multiples3And5.py) |
-|16| [Temperatures](./Solutions/Python_Basics/16Temperatures.py) |
-|17| [Print every two letters pairs](./Solutions/Python_Basics/17PrintEveryPair.py) |
-|18| [Print every pair of distinct letters](./Solutions/Python_Basics/18PrintEveryPairDistinct.py) |
+| # |    Title    |
+|---| ----------- |
+|01| [Hello World](./Solutions/Python_Basics/01HelloWorld.py) 
+|02| [Print 42](./Solutions/Python_Basics/02Print42.py) 
+|03| [Number of seconds in a year](./Solutions/Python_Basics/03NumberOfSecondsYear.py) 
+|04| [Using operators](./Solutions/Python_Basics/04UsingOperators.py) 
+|05| [Characters counting](./Solutions/Python_Basics/05CharacterCounting.py) 
+|06| [Fix the indentation](./Solutions/Python_Basics/06FixTheIdentation.py) 
+|07| [Square numbers](./Solutions/Python_Basics/07SquareNumbers.py) 
+|08| [Powers of two](./Solutions/Python_Basics/08PowersOfTwo.py) 
+|09| [Import](./Solutions/Python_Basics/09Import.py) 
+|10| [Comparisons](./Solutions/Python_Basics/10Comparisons.py) 
+|11| [Counting Words](./Solutions/Python_Basics/11CountingWords.py) 
+|12| [First function](./Solutions/Python_Basics/12FirstFunction.py) 
+|13| [Print even numbers](./Solutions/Python_Basics/13PrintEvenNumbers.py) 
+|14| [Sum of even numbers](./Solutions/Python_Basics/14SumOfEvenNumbers.py) 
+|15| [Multiples of 3 and 5](./Solutions/Python_Basics/15Multiples3And5.py) 
+|16| [Temperatures](./Solutions/Python_Basics/16Temperatures.py) 
+|17| [Print every two letters pairs](./Solutions/Python_Basics/17PrintEveryPair.py) 
+|18| [Print every pair of distinct letters](./Solutions/Python_Basics/18PrintEveryPairDistinct.py) 
 
 
 
 ## Python - Training
-| # |    Title    |    Solution    |
-|---| ----------- | -------------- |
-|01| [Distance](./Solutions/Python_Training/01Distance.py) |
+| # |    Title    |
+|---| ----------- |
+|01| [Distance](./Solutions/Python_Training/01Distance.py) 
 |02| [Check if a number is prime]
 |03| [Sum of every prime number below n]
 |04| [Print every prime numbers in a range]
@@ -56,12 +56,12 @@ All Exercices can be found [Here](https://www.hackinscience.org/exercises/)
 
 
 ## Python - Realist
-| # |    Title    |    Solution    |
-|---| ----------- | -------------- |
-|01| [Longest word](./Solutions/Python_Realist/01LongestWord.py) |
-|02| [Print sorbet flavors](./Solutions/Python_Realist/02Sorbet.py) |
-|03| [Sets of love](./Solutions/Python_Realist/03SetsOfLove.py) |
-|04| [Sort students](./Solutions/Python_Realist/04SortStudents.py) |
+| # |    Title    |
+|---| ----------- |
+|01| [Longest word](./Solutions/Python_Realist/01LongestWord.py) 
+|02| [Print sorbet flavors](./Solutions/Python_Realist/02Sorbet.py) 
+|03| [Sets of love](./Solutions/Python_Realist/03SetsOfLove.py) 
+|04| [Sort students](./Solutions/Python_Realist/04SortStudents.py) 
 |05| [Reverse Roman Numerals]
 |06| [Select students]
 |07| [Friday the 13th]
@@ -93,19 +93,19 @@ All Exercices can be found [Here](https://www.hackinscience.org/exercises/)
 
 
 ## Python - Command Line
-| # |    Title    |    Solution    |
-|---| ----------- | -------------- |
-|01| [Print parameters](./Solutions/Python_CMD/01PrintParameters.py) |
-|02| [Print the first parameter](./Solutions/Python_CMD/02PrintTheFirstParameter.py) |
-|03| [Simple adder](./Solutions/Python_CMD/03SimpleAdder.py) |
+| # |    Title    |
+|---| ----------- |
+|01| [Print parameters](./Solutions/Python_CMD/01PrintParameters.py) 
+|02| [Print the first parameter](./Solutions/Python_CMD/02PrintTheFirstParameter.py) 
+|03| [Simple adder](./Solutions/Python_CMD/03SimpleAdder.py) 
 |04| [Calculator]
 |05| [Fir tree]
 
 
 
 ## Python and Numpy
-| # |    Title    |    Solution    |
-|---| ----------- | -------------- |
+| # |    Title    |
+|---| ----------- |
 |01| [Abelian sandpiles]
 |02| [Make your own 2048 in Python!]
 |03| [Dirichlet solver]
