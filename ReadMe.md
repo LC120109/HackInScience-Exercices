@@ -32,9 +32,9 @@ All Exercices can be found [Here](https://www.hackinscience.org/exercises/)
 | # |    Title    |
 |---| ----------- |
 |01| [Distance](./Solutions/Python_Training/01Distance.py) 
-|02| [Check if a number is prime]
-|03| [Sum of every prime number below n]
-|04| [Print every prime numbers in a range]
+|02| [Check if a number is prime](./Solutions/Python_Training/02PrimeNumbers.py) 
+|03| [Sum of every prime number below n](./Solutions/Python_Training/03SumPrime.py) 
+|04| [Print every prime numbers in a range](./Solutions/Python_Training/04PrimeRange.py) 
 |05| [Next prime]
 |06| [The Fibonacci sequence]
 |07| [Exceptions]
