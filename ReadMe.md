@@ -1,4 +1,4 @@
-# HackInScience Exercices Solutions
+# HackInScience Exercises Solutions
 
 All Exercices can be found [Here](https://www.hackinscience.org/exercises/)
 
